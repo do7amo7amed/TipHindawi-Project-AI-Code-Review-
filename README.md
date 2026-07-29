@@ -1,1 +1,1 @@
-# TipHindawi-Project-AI-Code-Review-
+# AI-Code-Review-Project
