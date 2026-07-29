@@ -17,33 +17,52 @@
 
 # 📖 Project Overview
 
-Briefly describe your project.
+AI Code Review Assistant is an LLM-powered application that automatically reviews Python source code and provides detailed feedback on potential issues, code quality, and possible improvements.
+
+The application uses the **Mistral-7B-Instruct-v0.2** language model to analyze uploaded Python files and generate structured review reports through an interactive Streamlit interface.
 
 ---
 
 # ✨ Features
 
-* Feature 1
-* Feature 2
-* Feature 3
+*  Upload Python source files for automatic review.
+*  Detect programming bugs and potential runtime issues.
+*  Identify bad coding practices and performance problems.
+*  Generate structured issue reports with severity levels.
+*  Suggest improvements and provide corrected code examples.
+*  Interactive web interface built with Streamlit.
+
 
 ---
 
 # 🛠️ Technologies Used
 
-List the technologies, frameworks, and tools used in this project.
+- Python
+- Streamlit
+- Hugging Face Transformers
+- Mistral-7B-Instruct-v0.2
+- LangChain
+- PyTorch
+- FAISS
+- Sentence Transformers
 
 ---
 
 # ⚙️ Installation
 
-Explain how to install and run the project.
 
 ---
 
 # 🚀 Usage
 
-Describe how to use the project.
+. Launch the Streamlit application.
+2. Upload a Python (.py) file.
+3. Click **Run Review**.
+4. View:
+   - Code Analysis
+   - Structured Issues
+   - Suggested Improvements
+
 
 ---
 
