@@ -68,7 +68,8 @@ The application uses the **Mistral-7B-Instruct-v0.2** language model to analyze 
 
 # 📸 Demo
 
-Add screenshots, GIFs, or a demo video.
+<img width="940" height="742" alt="image" src="https://github.com/user-attachments/assets/b44e891a-f453-412e-8a86-f9cf5b8cacf6" />
+
 
 ---
 
@@ -80,9 +81,11 @@ Share your project's outcomes or achievements.
 
 # 🔮 Future Improvements
 
-* Improvement 1
-* Improvement 2
-* Improvement 3
+- Support additional programming languages.
+- Improve issue detection accuracy using fine-tuning.
+- Export review reports as PDF or HTML.
+- Add support for GitHub repository analysis.
+- Integrate CI/CD code review.
 
 ---
 
