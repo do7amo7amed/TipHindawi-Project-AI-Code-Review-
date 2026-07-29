@@ -1,0 +1,14 @@
+# Install torch separately first with the correct CUDA index (see README.md), then:
+#   pip install -r requirements.txt
+
+streamlit
+transformers==4.52.4
+accelerate
+bitsandbytes>=0.43.0
+langchain
+langchain-community
+langchain-huggingface
+langchain-classic
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
